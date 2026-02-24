@@ -1,5 +1,3 @@
-from data import num
-
 #TODO 1 Run this program
 #Let'S debug.
 
